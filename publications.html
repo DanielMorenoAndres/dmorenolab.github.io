@@ -60,6 +60,11 @@
             margin: 0 auto; /* Centers the div horizontally */
             padding: 20px; /* Optional padding */
         }
+        #content {
+            border: 1px solid #ccc; /* Optional styling */
+            padding: 10px;
+            max-width: 800px; /* Limit width for better readability */
+        }
 
     </style>
 </head>
@@ -92,7 +97,9 @@
     <h4><a href="https://www.scopus.com/authid/detail.uri?authorId=56515474000"><strong>SCOPUS</strong></a></h4>
     <h4><a href="https://scholar.google.de/citations?user=VG8co_oAAAAJ&hl=es"><strong>Google scholar</strong></a></h4>
     </div>
-
+        
+<h1>list</h1>
+<div id="content">Loading...</div>
 <script>
 // Function to fetch and display the content
 fetch('Publication-list.txt')
