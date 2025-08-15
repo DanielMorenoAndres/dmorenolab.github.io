@@ -100,7 +100,7 @@
 <div class="justified-centered">        
 <div id="content">Loading...</div>
 <script>
-// Function to fetch and display the content
+// Function to fetch and display the content from Publication-list.html
 fetch('Publication-list.html')
     .then(response => {
         if (!response.ok) {
@@ -109,7 +109,7 @@ fetch('Publication-list.html')
         return response.text(); // Parse as text
     })
     .then(data => {
-        document.getElementById('content').innerText = data; // Insert into div
+        document.getElementById('content').innerHTML = data; // Insert into div as HTML
     })
     .catch(error => {
         document.getElementById('content').innerText = 'Error loading content: ' + error.message;
