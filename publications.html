@@ -92,6 +92,23 @@
     <h4><a href="https://www.scopus.com/authid/detail.uri?authorId=56515474000"><strong>SCOPUS</strong></a></h4>
     <h4><a href="https://scholar.google.de/citations?user=VG8co_oAAAAJ&hl=es"><strong>Google scholar</strong></a></h4>
     </div>
+
+<script>
+// Function to fetch and display the content
+fetch('Publication-list.txt')
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.text(); // Parse as text
+    })
+    .then(data => {
+        document.getElementById('content').innerText = data; // Insert into div
+    })
+    .catch(error => {
+        document.getElementById('content').innerText = 'Error loading content: ' + error.message;
+    });
+</script>
     
 </body>
 <footer>
