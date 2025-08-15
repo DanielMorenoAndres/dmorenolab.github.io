@@ -1,0 +1,57 @@
+    H Yokoyama, D Moreno-Andrés, K Takizawa, Z Chu, A Scheufen, T Funabashi, J Ma, W Antonin, O Gruss, Y Haramoto (2025). SART1 uniquely localizes to spindle poles forming a SART1 cap and promotes spindle pole assembly. Journal of Biological Chemistry. https://doi.org/10.1016/j.jbc.2025.108561
+
+    R Jühlen, S Wiesmann, A Scheufen, T Stausberg, I Braun, C Strobel, C Llera-Brandt, S Rappold, R Suluyayla, M Tatarek-Nossol, B Lennartz, H Lue, M W G Schneider, J-F Perez-Correa, D Moreno-Andres, W Antonin (2025). The DEAD-box helicase eIF4A1/2 acts as RNA chaperone during mitotic exit enabling chromatin decondensation. Nat Commun 16, 2434 (2025). https://doi.org/10.1038/s41467-025-57592-1
+
+    A Scheufen and D Moreno-Andrés (2024). Quantitative Live-Cell Imaging to Study Chromatin Segregation and Nuclear Reformation. Methods Mol Biol. 2025;2874:47-60. https://doi.org/10.1007/978-1-0716-4236-8_5
+
+    A Jose, R Roy, D Eschweiler, I Laube, R Azad, D Moreno-Andrés, J Stegmaier (2024). End-to-end classification of cell-cycle stages with center-cell focus tracker using recurrent neural networks. PLOS ONE. https://doi.org/10.1101/2023.02.28.530432
+
+    K Holl, N Chatain, S Krapp, J Baumeister, T Maié, S Schmitz, A Scheufen, N Brock, S Koschmieder, D Moreno-Andrés (2024). Calreticulin and JAK2V617F driver mutations induce distinct mitotic defects in myeloproliferative neoplasms. Scientific Reports. https://doi.org/10.1038/s41598-024-53240-8
+
+    A Jose, R Roy, D Moreno-Andrés, J Stegmaier (2023). Automatic Detection of Cell-cycle Stages using Recurrent Neural Networks. ICASSP 2023 IEEE. 10.1109/ICASSP49357.2023.10095221
+
+    L Averdunk, M A Huetzen, D Moreno-Andrés, R Kalb, S McKee, T Hsieh, A Seibt, M Schouwink, S Lalani, E Faqeih, T Brunet, P Boor, K Neveling, A Hoischen, B Hildebrandt, E Graf, L Lu, W Jin, J Schaper, J A Omer, T Demaret, N Fleischer, D Schindler, P Krawitz, E Mayatepek, D Wieczorek, L L Wang, WAntonin, R D Jachimowicz, V von Felbert, F Distelmaier (2023). Biallelic variants in CRIPT cause a Rothmund-Thomson-like syndrome with increased cellular senescence. Genetics in Medicine. https://doi.org/10.1371/journal.pone.0270923
+
+    D Moreno-Andrés, K Holl, W Antonin. The second half of mitosis and its implications in Cancer Biology (2022). Seminars in Cancer Biology. Review. https://doi.org/10.1371/journal.pone.0270923
+
+    D Moreno-Andrés, A Bhattacharyya, A Scheufen, and J Stegmaier (2022). LiveCellMiner: A new tool to analyze mitotic progression. PLOS ONE. https://doi.org/10.1371/journal.pone.0270923
+
+    A Jose, R Roy, D Eschweiler, I Laube, R Azad, D Moreno-Andres, J Stegmaier (2022). End-To-End Classification Of Cell-Cycle Stages With Center-Cell Focus Tracker Using Recurrent Neural Networks. ICASSP. https://ieeexplore.ieee.org/document/10095221
+
+    L J F Peters, C Baaten, S L Maas, C Lu, M Nagy, N J Jooss, K Bidzhekov, D Santovito, D Moreno-Andrés, J Jankowski, E A L Biessen, Y Döring, J W M Heemskerk, C Weber, M J E Kuijpers, and E P C van der Vorst (2022). MicroRNA-26b Attenuates Platelet Adhesion and Aggregation in Mice. Biomedicines. https://doi.org/10.3390/biomedicines10050983
+
+    G Holzer, P De Magistris, C Gramminger, R Sachdev, A Magalska, A Schooley, A Scheufen, B Lennartz, M Tatarek-Nossol, H Lue, M I Linder, U Kutay, C Preisinger, D Moreno-Andrés and Wolfram Antonin (2021). The nucleoporin Nup50 activates the Ran guanine nucleotide exchange factor RCC1 to promote NPC assembly at the end of mitosis. EMBO J. https://doi.org/10.15252/embj.2021108788
+
+    D Bähr, D Eschweiler, A Bhattacharyya, D Moreno-Andrés, W Antonin and J Stegmaier (2021). CellCycleGAN: Spatiotemporal Microscopy Image Synthesis of Cell Populations using Statistical Shape Models and Conditional GANs. IEEE 18th International Symposium on Biomedical Imaging (ISBI)
+
+    D Moreno-Andrés*#, H Yokoyama*, A Scheufen, G Holzer, Ho Lue, A K Schellhaus, M Weberruss, M Takagi and W Antonin# (2020). VPS72/YL1-Mediated H2A.Z Deposition Is Required for Nuclear Reassembly after Mitosis. Cells, 9(7), 1702; doi:10.3390/cells9071702. (* equally contributed first authors / # co-corresponding)
+
+    G Zanni, P De Magistris, M Nardella, E Bellacchio, S Barresi, A Sferra, A Ciolfi, M Motta, H Lue, D Moreno-Andrés, M Tartaglia, E Bertini and W Antonin (2019). Biallelic Variants in the Nuclear Pore Complex Protein NUP93 Are Associated with Non-progressive Congenital Ataxia. Cerebellum 18, 422-432.
+
+    H Yokoyama*, D Moreno-Andrés*, SA Astrinidis, Y Hao, M Weberruss, AK Schellhaus, H Lue, Y Haramoto, OJ Gruss and W Antonin (2019). Chromosome alignment maintenance requires the MAP RECQL4, mutated in the Rothmund-Thomson syndrome. Life Sci Alliance 2, doi:10.26508/lsa.201800120. (*equally contributed first authors)
+
+    NS Alves, SA Astrinidis, N Eisenhardt, C Sieverding, J Redolfi, M Lorenz, M Weberruss, D. Moreno-Andrés and W Antonin (2017). MISTIC-fusion proteins as antigens for high quality membrane protein antibodies. Sci Rep 7, 41519.
+
+    K Schellhaus, D Moreno-Andrés, M Chugh, H Yokoyama, A Moschopoulou, S De, F Bono, K Hipp, E Schäffer and W Antonin (2017). Developmentally Regulated GTP binding protein 1 (DRG1) controls microtubule dynamics. Sci Rep 7, 9996
+
+    B Vollmer, M Lorenz, D Moreno-Andrés, M Bodenhofer, P De Magistris, SA Astrinidis, A Schooley, M Flotenmeyer, S Leptihn and W Antonin (2015). Nup153 Recruits the Nup107-160 Complex to the Inner Nuclear Membrane for Interphasic Nuclear Pore Complex Assembly. Dev Cell 33, 717-728.
+
+    B Vollmer, M Lorenz, D Moreno-Andrés, M Bodenhofer, P De Magistris, SA Astrinidis, A Schooley, M Flotenmeyer, S Leptihn and W Antonin (2015). Nup153 Recruits the Nup107-160 Complex to the Inner Nuclear Membrane for Interphasic Nuclear Pore Complex Assembly. Dev Cell 33, 717-728.
+
+    A Schooley, D Moreno-Andrés, P De Magistris, B Vollmer and W Antonin (2015). The lysine demethylase LSD1 is required for nuclear envelope formation at the end of mitosis. J Cell Sci 128, 3466-3477.
+
+    A Dunkler, R Rosler, HA Kestler, D Moreno-Andrés and N Johnsson (2015). SPLIFF: A Single-Cell Method to Map Protein-Protein Interactions in Time and Space. Methods Mol Biol 1346, 151-168.
+
+    A Magalska, AK Schellhaus, D Moreno-Andrés, F Zanini, A Schooley, R Sachdev, H Schwarz, J Madlung and W Antonin (2014). RuvB-like ATPases function in chromatin decondensation at the end of mitosis. Dev Cell 33, 305-318.
+
+    D Moreno, J Neller, HA Kestler, J Kraus, A Dunkler and N Johnsson (2013). A fluorescent reporter for mapping cellular protein-protein interactions in time and space. Mol Syst Biol 9, 647.
+
+    C Roma-Mateo, D Moreno, S Vernia, T Rubio, TM Bridges, MS Gentry and P Sanz (2011), Lafora disease E3-ubiquitin ligase malin is related to TRIM32 at both the phylogenetic and functional level. BMC Evol Biol 11, 225.
+
+    D Moreno, MC Towler, DG Hardie, E Knecht, P Sanz (2010). The laforin-malin complex, involved in Lafora disease, promotes the incorporation of K63-linked ubiquitin chains into AMP-activated protein kinase beta subunits. Mol Biol Cell 21, 2578-2588.
+
+    D Moreno, R Viana and P Sanz (2009). Two-hybrid analysis identifies PSMD11, a non-ATPase subunit of the proteasome, as a novel interaction partner of AMP-activated protein kinase. Int J Biochem Cell Biol 41, 2431-2439.
+
+    R Viana, C Aguado, I Esteban, D Moreno, B Viollet, E Knecht and P Sanz (2008). Role of AMP-activated protein kinase in autophagy and proteasome function. Biochem Biophys Res Commun 369, 964-968.
+
+    D Moreno, E Knecht, B Viollet, P Sanz (2008). A769662, a novel activator of AMP-activated protein kinase, inhibits non-proteolytic components of the 26S proteasome by an AMPK-independent mechanism. FEBS Lett 582, 2650-2654.
