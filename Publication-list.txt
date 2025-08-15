@@ -1,4 +1,4 @@
-H Yokoyama, <strong>D Moreno-Andrés</strong>, K Takizawa, Z Chu, A Scheufen, T Funabashi, J Ma, W Antonin, O Gruss, Y Haramoto (<strong>2025</strong>). SART1 uniquely localizes to spindle poles forming a SART1 cap and promotes spindle pole assembly. Journal of Biological Chemistry. https://doi.org/10.1016/j.jbc.2025.108561
+<p>H Yokoyama, <strong>D Moreno-Andrés</strong>, K Takizawa, Z Chu, A Scheufen, T Funabashi, J Ma, W Antonin, O Gruss, Y Haramoto (<strong>2025</strong>). SART1 uniquely localizes to spindle poles forming a SART1 cap and promotes spindle pole assembly. Journal of Biological Chemistry. <a href="https://doi.org/10.1016/j.jbc.2025.108561">https://doi.org/10.1016/j.jbc.2025.108561</a></p>
 
 R Jühlen, S Wiesmann, A Scheufen, T Stausberg, I Braun, C Strobel, C Llera-Brandt, S Rappold, R Suluyayla, M Tatarek-Nossol, B Lennartz, H Lue, M W G Schneider, J-F Perez-Correa, D Moreno-Andres, W Antonin (2025). The DEAD-box helicase eIF4A1/2 acts as RNA chaperone during mitotic exit enabling chromatin decondensation. Nat Commun 16, 2434 (2025). https://doi.org/10.1038/s41467-025-57592-1
 
