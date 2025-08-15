@@ -109,10 +109,10 @@ fetch('Publication-list.html')
         return response.text(); // Parse as text
     })
     .then(data => {
-        document.getElementById('Publication-list').innerText = data; // Insert into div
+        document.getElementById('content').innerText = data; // Insert into div
     })
     .catch(error => {
-        document.getElementById('Publication-list').innerText = 'Error loading content: ' + error.message;
+        document.getElementById('content').innerText = 'Error loading content: ' + error.message;
     });
 </script>
 </div>    
