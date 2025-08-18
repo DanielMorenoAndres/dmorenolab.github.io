@@ -12,23 +12,46 @@
         ul {
             padding-left: 20px; /* Optional padding for indentation */
         }
-      ul.custom-bullets {
+     ul.custom-bullets {
             list-style-type: disc; /* Change bullet style to square */
         }
 
       ul.custom-bullets li {
           color: #333; /* Change text color */
         }
+        .styled-image {
+            display: block; /* Makes the element a block element */
+            margin-left: auto; /* Automatically adjusts left margin */
+            margin-right: auto; /* Automatically adjusts right margin */
+            border-radius: 25px; /* Adjust this value for more or less rounding */
+            max-width: 100%; /* Ensures responsiveness */
+            height: auto; /* Maintains aspect ratio */
+            padding: 20px; /* Optional padding */
+        }
+        .centered-text {
+            max-width: 800px; /* Limit the maximum width */
+            margin: 0 auto; /* Centers the div horizontally */
+            padding: 20px; /* Optional padding for vertical spacing */
+            text-align: center; /* Centers the text inside the div */
+        }
+        .justified-centered {
+            text-align: justify; /* Justifies the text */
+            max-width: 800px; /* Set a maximum width for better readability */
+            margin: 0 auto; /* Centers the div horizontally */
+            padding: 20px; /* Optional padding */
+        }
+
     </style>
   
 </head>
 <body>
-<div class="centered-text">
+<div class="justified-centered">
     <p>14 September, 2020</p>
     <h4>VPS72/YL1-Mediated H2A.Z Deposition Is Required for Nuclear Reassembly after Mitosis</h4> 
+    <img src="images/VPS72_GA.png" alt="Description of Image" width="800" class="styled-image">
     </div>  
 <ul class="custom-bullets">
-<li>find more about it in the <a href="https://www.mdpi.com/2073-4409/9/7/1702"><strong>Cells</strong>journal</a></li>
+<li>find more about it in the <a href="https://www.mdpi.com/2073-4409/9/7/1702"><strong>Cells</strong> journal</a></li>
 </ul>
 
 </body>
