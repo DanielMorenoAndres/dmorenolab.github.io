@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bulleted List Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        ul {
+            padding-left: 20px; /* Optional padding for indentation */
+        }
+     ul.custom-bullets {
+            list-style-type: disc; /* Change bullet style to square */
+        }
+
+      ul.custom-bullets li {
+          color: #333; /* Change text color */
+        }
+        .styled-image {
+            display: block; /* Makes the element a block element */
+            margin-left: auto; /* Automatically adjusts left margin */
+            margin-right: auto; /* Automatically adjusts right margin */
+            border-radius: 25px; /* Adjust this value for more or less rounding */
+            max-width: 100%; /* Ensures responsiveness */
+            height: auto; /* Maintains aspect ratio */
+            padding: 20px; /* Optional padding */
+        }
+        .centered-text {
+            max-width: 800px; /* Limit the maximum width */
+            margin: 0 auto; /* Centers the div horizontally */
+            padding: 20px; /* Optional padding for vertical spacing */
+            text-align: center; /* Centers the text inside the div */
+        }
+        .justified-centered {
+            text-align: justify; /* Justifies the text */
+            max-width: 800px; /* Set a maximum width for better readability */
+            margin: 0 auto; /* Centers the div horizontally */
+            padding: 20px; /* Optional padding */
+        }
+
+    </style>
+  
+</head>
+<body>
+<div class="justified-centered">
+    <p>18 November, 2020</p>
+    <h4>In silico synthesis of dynamic cell populations</h4> 
+    
+<ul class="custom-bullets">
+<li>Live-cell imaging can accurately identify the nature of the cell cycle and mitotic defects. Therefore, live-cell microscopy experiments have become state-of-the-art in these research fields of the life sciences. To cope with the massive amount of data acquired with advanced high-throughput microscopy imaging technics, automatic segmentation, tracking and classification are imperative. Computer vision approaches, like machine learning algorithms and deep learning networks, have transformed the field and provide excellent automated results when sufficient manually annotated training data are available. However, to generate high quality annotated data sets is time-consuming and needs expert biologists. Additionally, the performance of a determined trained data set just to decrease considerably when it is applied to images acquired in different conditions, settings, and platforms than those used to acquire the data used for training. Data synthesis has been proposed to overcome those limitations and complement manually annotated training sets. Additionally, providing algorithm benchmarking and image restoration possibilities.</li>
+<li>Find now in <a href="https://ieeexplore.ieee.org/document/9433896"><strong>IEEE</strong> Xplore journal</a> the last work from the group headed by Jun.-Prof. Johannes Stegmaier (Institute of Imaging and Computer Vision, RWTH Aachen University, Aachen, German) about the synthesis of dynamic cell populations to train deep learning networks, where we collaborate.</li>
+</ul>
+
+</body>
