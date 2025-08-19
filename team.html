@@ -65,6 +65,22 @@
             padding: 10px;
             max-width: 800px; /* Limit width for better readability */
         }
+         .profile-container {
+            display: flex; /* Use flexbox for layout */
+            align-items: center; /* Center items vertically */
+            border: 1px solid #ccc; /* Optional border */
+            padding: 10px;
+            max-width: 600px; /* Limit width for better readability */
+        }
+        .profile-photo {
+            border-radius: 50%; /* Make the image circular */
+            width: 100px; /* Set width of the image */
+            height: 100px; /* Set height of the image */
+            margin-right: 20px; /* Space between photo and text */
+        }
+        .profile-description {
+            max-width: 400px; /* Limit width of text area */
+        }
 
     </style>
 </head>
@@ -90,9 +106,37 @@
     <section id="team">  
     <div class="centered-text">
     <h1>team</h1> 
-      <p>loading...</p>
-    </div> 
-
+    </div>   
+        
+    <div class="profile-container">
+    <img src="team/DMA.jpeg" alt="Profile Photo" class="profile-photo"> <!-- Profile photo -->
+    
+    <div class="profile-description"> <!-- Description container -->
+        <h2>Daniel Moreno-Andrés</h2> <!-- Name -->
+        <h3>Group Leader</h3> <!-- Position -->
+        <p><strong>CV</strong></p> <!-- Description -->
+    </div>
+</div>
+        
+<div class="justified-centered">        
+<div id="content">Loading...</div>
+<script>
+// Function to fetch and display the content from Publication-list.html
+fetch('alumni.html')
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.text(); // Parse as text
+    })
+    .then(data => {
+        document.getElementById('content').innerHTML = data; // Insert into div as HTML
+    })
+    .catch(error => {
+        document.getElementById('content').innerText = 'Error loading content: ' + error.message;
+    });
+</script>
+</div>    
 </body>
 <footer>
     &copy; Creative Commons Attribution-ShareAlike 4.0 International License - by dmorenolab - Built in Git using Github Pages 2025
